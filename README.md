@@ -29,6 +29,7 @@ Read the latest posts, create their own posts, and look at their latest notifica
 
     What is the site's approximate information architecture? (in general -- don't get caught up in the details too much)
 sign up/in > Home page/ news feed     Read extended comments
+
                          Create post                             edit profile
                          Comment                                 messaging
                          Like                                    chat
@@ -43,6 +44,6 @@ When logged in every main feature is available and visible to you. The main feat
     
 The top nav bar always stays the same. Side nav bar directs you everywhere else. Consistent logo placement always takes you home. Lots of windows are pop ups and can always be closed if you want to go back. It is very easy to navigate, however it can be more complicated when moving forward into something like say, settings and certain security features.
 
-    What does Facebook do well to allow the user to accomplish the top goal effectively, efficiently and with good satisfaction? Yes it does, most everything is above the fold and right there. Simply by scrolling down you can get unlimited new content. 
+What does Facebook do well to allow the user to accomplish the top goal effectively, efficiently and with good satisfaction? Yes it does, most everything is above the fold and right there. Simply by scrolling down you can get unlimited new content. 
     
     What does Facebook do poorly when allowing the user to accomplish the top goal effectively, efficiently and with good satisfaction? Occasionally the news feed will jump back up to the top of the page. It tends to notify you of friends activities that aren't very important. This is the main problem of facebook having to guess what content you want to see. Another thing I've noticed as a user over the years is there is just so much content and features that it becomes somewhat cluttered and over bearing. It used to be so much cleaner and that was what I missed.
