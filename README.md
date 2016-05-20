@@ -29,7 +29,7 @@ Read the latest posts, create their own posts, and look at their latest notifica
 
     What is the site's approximate information architecture? (in general -- don't get caught up in the details too much)
     
-    sign up/in > Home page/ news feed     Read extended comments
+    sign up/in > Home page/ news feed                            Read extended comments
                          Create post                             edit profile
                          Comment                                 messaging
                          Like                                    chat
